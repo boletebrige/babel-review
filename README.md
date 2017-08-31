@@ -15,6 +15,8 @@ Quick babel setup explained and ready for use
 }
 ```
 ## Usage
+- clone this repo
+- run `npm install` command
 - write yours ES2015+ code in `src/index.js`
 - run command `npm run build` 🍺 and your ES2015+ code will be transpiled in file `lib/index.js`
 
