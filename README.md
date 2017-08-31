@@ -8,9 +8,10 @@ Quick babel setup
 - "build" command added in field "scripts" to "package.json" for running Babel locally in project and output "index.js" from "src" to "lib"
 > Babel is now configured but it isn't doing anything
 - create ".babelrc" file in the root directory
-- add this lines in ".babelrc" file: `
+- add this lines in ".babelrc" file:
+```
     {
         "presets": ["env"]
     }
-`
+```
 
